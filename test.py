@@ -1,5 +1,5 @@
 def main():
-    print('Hello actions')
+    print('Hello actions from fork')
 
 
 if __name__ == '__main__':
